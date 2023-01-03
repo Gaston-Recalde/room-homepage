@@ -2,7 +2,9 @@
 
 $dark-gray: hsl(0, 0%, 63%);
 $black: hsl(0, 0%, 0%);
+$black2: hsla(0, 0%, 0%, 0.5);
 $white: hsl(0, 0%, 100%);
 $very-dark-gray: hsl(0, 0%, 27%);
 
 @import 'general';
+@import 'main';
